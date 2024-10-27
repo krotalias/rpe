@@ -51,7 +51,7 @@
  * @author {@link https://sketchfab.com/slava Slava Z.}
  * @author Paulo Roma.
  * @since 26/09/2024
- * @see <a href="../src/App.js">source</a>
+ * @see <a href="../src/App.jsx">source</a>
  * @see <a href="https://krotalias.github.io/rpe/">link</a>
  * @see <a href="../README">README</a>
  * @see {@link https://www.youtube.com/watch?app=desktop&v=DPl34H2ISsk I wish I knew this before using React Three Fiber}
