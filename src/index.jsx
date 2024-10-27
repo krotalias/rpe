@@ -7,7 +7,7 @@
  * @since 26/09/2024
  * @author {@link https://sketchfab.com/slava Slava Z.}
  * @author Paulo Roma.
- * @see <a href="../src/index.jsx">source</a>
+ * @see {@link https://raw.githubusercontent.com/krotalias/rpe/main/src/index.jsx source}
  * @see <a href="https://krotalias.github.io/rpe/">link</a>
  * @see {@link external:react-dom/client.createRoot createRoot}
  * @see {@link external:react-three/fiber R3F}

@@ -21,7 +21,7 @@
  *  <ul>
  *    <li>cd rpe-app</li>
  *    <ul>
- *      <li>To create the initial <a href="../package.json">package.json</a>:</li>
+ *      <li>To create the initial {@link https://raw.githubusercontent.com/krotalias/rpe/main/package.json package.json}:</li>
  *      <ol>
  *          <li>npm init vite</li>
  *          <li>yarn add @react-three/fiber</li>
@@ -51,9 +51,9 @@
  * @author {@link https://sketchfab.com/slava Slava Z.}
  * @author Paulo Roma.
  * @since 26/09/2024
- * @see <a href="../src/App.jsx">source</a>
+ * @see {@link https://raw.githubusercontent.com/krotalias/rpe/main/src/App.jsx source}
  * @see <a href="https://krotalias.github.io/rpe/">link</a>
- * @see <a href="../README">README</a>
+ * @see {@link https://raw.githubusercontent.com/krotalias/rpe/main/README README}
  * @see {@link https://www.youtube.com/watch?app=desktop&v=DPl34H2ISsk I wish I knew this before using React Three Fiber}
  * @see {@link https://r3f.docs.pmnd.rs/getting-started/examples R3F Examples}
  */

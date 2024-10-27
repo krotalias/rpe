@@ -15,7 +15,7 @@
  * @since 26/09/2024
  * @author {@link https://sketchfab.com/slava Slava Z.}
  * @author Paulo Roma.
- * @see <a href="../src/Engine.jsx">source</a>
+ * @see {@link https://raw.githubusercontent.com/krotalias/rpe/main/src/Engine.jsx source}
  * @see {@link https://discourse.threejs.org/t/arcballcontrols-no-gizmos-visible/71229 ArcballControls no gizmos visible}
  * @see <iframe title="Engine" src="https://krotalias.github.io/cwdc/13-webgl/examples/three/content/stl.html?file=RPE/RadialPneumaticEngine.glb" style="position: relative; right: 40px; margin-bottom: 0px; transform: scale(0.85); width: 380px; height: 380px"></iframe>
  */
