@@ -111,7 +111,7 @@ export function Engine(props) {
   const boxH = useRef()
   const state = useThree()
   const reset = useRef(false)
-  const { nodes } = useGLTF("/machine-transformed.glb")
+  const { nodes } = useGLTF("./machine-transformed.glb")
   const [hovered, setHover] = useState(null)
   const [config, set, get] = useControls(() => ({
     parts: folder(
