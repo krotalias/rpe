@@ -7,8 +7,8 @@
  * @since 26/09/2024
  * @author {@link https://sketchfab.com/slava Slava Z.}
  * @author Paulo Roma.
- * @see <a href="../src/index.js">source</a>
- * @see <a href="https://rpe-gold.vercel.app/">link</a>
+ * @see <a href="./src/index.js">source</a>
+ * @see <a href="https://krotalias.github.io/rpe/">link</a>
  * @see {@link external:react-dom/client.createRoot createRoot}
  * @see {@link external:react-three/fiber R3F}
  */

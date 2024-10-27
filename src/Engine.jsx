@@ -15,9 +15,9 @@
  * @since 26/09/2024
  * @author {@link https://sketchfab.com/slava Slava Z.}
  * @author Paulo Roma.
- * @see <a href="../src/Engine.js">source</a>
+ * @see <a href="./src/Engine.js">source</a>
  * @see {@link https://discourse.threejs.org/t/arcballcontrols-no-gizmos-visible/71229 ArcballControls no gizmos visible}
- * @see <img src="../thumbnail.png" width="256">
+ * @see <img src="./thumbnail.png" width="256">
  */
 import { BoxHelper, Box3, Vector3 } from "three"
 import { useRef, useState } from "react"
